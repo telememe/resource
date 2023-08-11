@@ -1,0 +1,92 @@
+{"frames": {
+
+"gold_1.png":
+{
+	"frame": {"x":1,"y":1,"w":123,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":150},
+	"sourceSize": {"w":123,"h":150}
+},
+"gold_2.png":
+{
+	"frame": {"x":1,"y":153,"w":123,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":150},
+	"sourceSize": {"w":123,"h":150}
+},
+"gold_3.png":
+{
+	"frame": {"x":251,"y":126,"w":114,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":150},
+	"sourceSize": {"w":114,"h":150}
+},
+"gold_4.png":
+{
+	"frame": {"x":126,"y":1,"w":123,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":150},
+	"sourceSize": {"w":123,"h":150}
+},
+"gold_5.png":
+{
+	"frame": {"x":126,"y":153,"w":123,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":150},
+	"sourceSize": {"w":123,"h":150}
+},
+"gold_6.png":
+{
+	"frame": {"x":306,"y":1,"w":123,"h":150},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":150},
+	"sourceSize": {"w":123,"h":150}
+},
+"gold_7.png":
+{
+	"frame": {"x":306,"y":278,"w":82,"h":150},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":150},
+	"sourceSize": {"w":82,"h":150}
+},
+"gold_8.png":
+{
+	"frame": {"x":154,"y":305,"w":55,"h":150},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":150},
+	"sourceSize": {"w":55,"h":150}
+},
+"gold_9.png":
+{
+	"frame": {"x":367,"y":126,"w":82,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":150},
+	"sourceSize": {"w":82,"h":150}
+},
+"gold_10.png":
+{
+	"frame": {"x":1,"y":305,"w":55,"h":151},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":151},
+	"sourceSize": {"w":55,"h":151}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "gold.png",
+	"format": "RGBA8888",
+	"size": {"w":457,"h":361},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:39b6f9530c6f018d90d809e6494b39e0:51d90f85883eed226f758fed2afb6a7d:966bed6e674f585e079be9469b8f8557$"
+}
+}

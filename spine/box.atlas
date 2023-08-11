@@ -1,0 +1,10 @@
+box.png
+size:1486,1076
+filter:Linear,Linear
+pma:true
+光效
+bounds:2,2,800,1072
+盒子
+bounds:804,480,619,594
+盖子
+bounds:804,143,680,335
